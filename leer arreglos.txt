@@ -1,0 +1,6 @@
+Hola! 
+Bueno ayer entregué el desafio 6 pendiente,no alcance a terminar
+el desafio en sí, ayer domingo pude trabajar en el y en las cosas que 
+quedaron faltantes, como validar el boton con js, realizar otra funcion de aviso
+y algunos detalles que pude mejorar. agradecería considerar
+slds!!
